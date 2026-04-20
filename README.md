@@ -1,5 +1,7 @@
 # FFT_Based_AI_Image_Detection
-When an image is considered as a signal of two variables, the fourier transform of that 2D signal can be taken. That is the "Fourier Transform of the Image" that shows the presence of repeated patters due to diffusion models and lack of natural noise, that can be used to distinguish between AI generated images and real images. 
+When an image is considered as a signal of two variables, the fourier transform of that 2D signal can be taken. That is the "Fourier Transform of the Image" that shows the presence of repeated patters due to diffusion models and lack of natural noise, that can be used to distinguish between AI generated images and real images.
+
+One of the most important features in the FFT of the 2D signal (i.e the image) is the presence of bright (sharp) spikes at different places in the "magnitude spectrum". The fourier transform of a periodic signal (hence in pattern) gives spikes at different frequencies in use. This can be a core measure to identify AI generated images becuase the most common diffusion models repeatedly uses same patterns that will result in these spikes in the FFT.
 
 ---
 
