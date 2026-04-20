@@ -5,6 +5,9 @@ One of the most important features in the FFT of the 2D signal (i.e the image) i
 
 ---
 
+# Handwritten Explanation
+https://github.com/CharithaRanasinghe/FFT_Based_AI_Image_Detection/blob/main/FFT%20Based%20AI%20Image%20Detection%20-%20Explanation.pdf
+
 # Mathematics and Formulas Implemented in Code
 https://github.com/CharithaRanasinghe/FFT_Based_AI_Image_Detection/blob/main/FFT_AI_DETECT%20-%20Mathematics.pdf
 
