@@ -3,8 +3,15 @@ When an image is considered as a signal of two variables, the fourier transform 
 
 ---
 
+# Mathematics and Formulas Implemented in Code
+https://github.com/CharithaRanasinghe/FFT_Based_AI_Image_Detection/blob/main/FFT_AI_DETECT%20-%20Mathematics.pdf
+
+# Theoretical Concepts
+https://github.com/CharithaRanasinghe/FFT_Based_AI_Image_Detection/blob/main/FFT_AI_DETECT.pdf
+
 # Colab
 https://colab.research.google.com/drive/1sRa5_36ksIv_h7RpJIC7UdUFKtJegzuZ?usp=sharing
+
 ---
 
 # Example Run
